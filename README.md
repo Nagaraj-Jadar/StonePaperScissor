@@ -38,22 +38,3 @@ A simple **Stone, Paper, Scissors** game built using **HTML**, **CSS**, and **Ja
    ```bash
    git clone https://github.com/Nagaraj-Jadar/StonePaperScissor.git
 2. Open the index.html file in your browser to start playing.
-
-
-### Explanation:
-1. **Demo Section**:  
-   - In the section `## Demo`, I've added the following line to display the GIF:
-     ```markdown
-     ![Stone Paper Scissors Demo](images/screenshot.png)
-     ```
-     This will display the `game-demo.gif` from the `images/` folder in your project.
-
-2. **License Section**:  
-   - Under the `## License` section, it mentions that this project is licensed under the **MIT License**:
-     ```markdown
-     This project is licensed under the MIT License.
-     ```
-
-### Steps for You to Follow:
-1. **Place your GIF or image** in a folder within your project (e.g., `images/`). For example, your project folder structure could look like this:
-
