@@ -39,17 +39,21 @@ A simple **Stone, Paper, Scissors** game built using **HTML**, **CSS**, and **Ja
    git clone https://github.com/Nagaraj-Jadar/StonePaperScissor.git
 2. Open the index.html file in your browser to start playing.
 
-Demo
-Here’s a quick demo of how the game works:
 
-License
-This project is licensed under the MIT License.
+### Explanation:
+1. **Demo Section**:  
+   - In the section `## Demo`, I've added the following line to display the GIF:
+     ```markdown
+     ![Stone Paper Scissors Demo](images/screenshot.png)
+     ```
+     This will display the `game-demo.gif` from the `images/` folder in your project.
 
+2. **License Section**:  
+   - Under the `## License` section, it mentions that this project is licensed under the **MIT License**:
+     ```markdown
+     This project is licensed under the MIT License.
+     ```
 
-### Instructions:
-- **Replace `images/game-demo.gif`** with the correct path to your GIF or image.
-- Make sure your image/GIF is located in the `images/` (or any folder you choose) within your project directory.
-  
-Once you paste this into your `README.md` and commit/push it, it should show up properly on GitHub.
+### Steps for You to Follow:
+1. **Place your GIF or image** in a folder within your project (e.g., `images/`). For example, your project folder structure could look like this:
 
-Let me know if you need further assistance!
